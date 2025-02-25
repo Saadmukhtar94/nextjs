@@ -40,3 +40,222 @@ a {
     color-scheme: dark;
   }
 }
+
+/* * {
+  padding-bottom: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+  }
+  
+  
+  :root {
+  --primary-color: rgb(13, 47, 63);
+  }
+  .pointer{
+  cursor: pointer;
+  }
+  #left{
+    font-size: 13px;
+  }    
+  
+  .py-2{
+    margin-bottom: 0;
+  }
+  nav{
+  background-color: white;
+  }
+  #navbar1 ul li button{
+  font-size: 18px;
+  }
+  #navbar1,#navbar2 ul{
+  margin-bottom: 0;
+  } */
+  /* #header2 properties are defined in Header2.js */
+  #header2{
+    position: sticky !important;
+    top: 0px;
+    padding: 0px 20px;
+  }   
+  
+  /* .dropdown-menu li a{
+  text-decoration: none;
+  color: black;
+  }
+  .li-Hover:hover a {
+    color: rgb(255, 253, 253);  
+    background-color: #399f6e ;  
+  }
+  .dropdown-menu li:hover{
+  color: white;
+  background-color:#399f6e ;
+  translate: x;
+  
+  }
+  .dropdown-menu li a:hover{
+  background-color:#399f6e ;
+  color: white;
+  }
+  .dropdown-menu li:hover{
+  background-color:#399f6e ;
+  }
+ 
+  #footer{
+  
+  color: white;
+  background-color: #399f6e;
+  }
+  #footer ul li a{
+  color: white;
+  }
+  .footer-ul li a{
+  text-decoration: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: bolder
+  ;
+      }
+      .footer-ul li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+      }
+  #client h2{
+        color: var(--primary-color);
+  align-items:start ;
+  margin-top: 100px;
+  
+  }
+  .client-button{
+  border-radius: 50%;
+  }
+  #tour-events-2 h2{
+  color: var(--primary-color);
+  }
+  
+  #tour-events-3 h2{
+  color: var(--primary-color);
+  }
+  #footer-map{
+  width: 28px;
+  }
+  .card{
+  cursor: grab;
+  }
+  @media screen and (min-width: 1024px) {
+    
+      #pic2{
+        position: absolute;
+        top: 400px;
+        left: 500px;
+        z-index: -1;
+              clear: both;
+        
+        }
+        #pic3{
+          position: absolute;
+          top: 280px;
+          left: 550px;
+          z-index: -1;
+                clear: both;
+          
+          }
+  #menu-buttons {
+  display: none;
+  }
+  
+  #tour-events1-b{
+  display: none;
+  }
+  }
+  @media screen and (max-width: 1028px) {
+  
+  
+  .icon-disable{
+  display: none;
+  }
+  
+  }
+  @media screen and (max-width: 480px) {
+  * {
+  margin: 0;
+  }
+  
+  .disable {
+  display: none;
+  }
+  }
+  @media screen and ( min-width:992px){
+  #navbar2{
+  display: none;
+  }
+  }
+  @media screen and (max-width: 991px) {
+  .icon-disable{
+      display: none;
+    }
+    
+    #left{
+      margin: auto;
+    }
+  .ipads-disable {
+  display: none;
+  }
+ 
+  .icon-disable{
+      display: none;
+    }
+    
+    #left{
+      margin: auto;
+    }
+  #navbar1{
+  display: none;
+  }
+  
+  }
+  @media screen and (max-width:767px)   {
+  #right{
+      display: none;
+    }
+  
+ 
+  *{
+  margin: 0;
+  }
+ 
+  .disable{
+  display: none;
+  }
+ 
+  }
+  @media screen and (max-width: 550px){
+  
+    *{
+      box-sizing: border-box;
+    }
+  
+  } 
+  @media screen and (max-width: 480px) {
+  * {
+  margin: 0;
+  box-sizing: border-box;
+  
+  
+  }
+  
+    #right{
+      display: none;
+    }
+    #left{
+      margin: auto;
+    }
+ 
+  .disable {
+  display: none;
+  }
+  }       
+  
+  
+  
+  
+   */
